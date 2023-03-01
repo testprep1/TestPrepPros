@@ -200,7 +200,7 @@ form {
     background-color:#FFA500;
     width:90%;
     margin:auto;
-    color:white;
+    color:#000000;
     padding:10px;
     grid-template-coloumns:90%;
 }
